@@ -3,8 +3,6 @@ A basic GUI that allows you to store your emails, password and account informati
 
 <p align="center">
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Password-alert-gif.gif" height="200" width="350">
-  <img src="https://drive.google.com/file/d/1p1e0UALXd59XbqlTVbicMbFc3UJ5AhEk/view?usp=sharing">
-  
 </p>
 
 
